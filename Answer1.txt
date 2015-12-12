@@ -1,0 +1,11 @@
+1) 
+
+Git clone creates a local copy from a remote repository. 
+
+It does: 
+
+-Create a new directory in the current folder 
+-Create a remote connection with the origin repository
+-Pull the files from the origin repository
+-Check out into the active branch
+
