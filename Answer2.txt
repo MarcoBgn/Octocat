@@ -1,0 +1,8 @@
+2)
+
+The upstream remote is usually used as a "central" repository, where the 
+master branch can be retrieved and many users can collaborate on 
+different aspects of the project. Git is a DVCS though, so every repository 
+is a full copy of the remote one and can be used to retrieve the master. 
+
+ 
