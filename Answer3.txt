@@ -1,0 +1,6 @@
+3) 
+
+A branch is a working copy of the master repository at a given point in time. 
+It can be edited and either dicarded or merged with the master branch. In Git 
+branches do not use many resources and are widely used. 
+
