@@ -5,4 +5,10 @@ master branch can be retrieved and many users can collaborate on
 different aspects of the project. Git is a DVCS though, so every repository 
 is a full copy of the remote one and can be used to retrieve the master. 
 
+After some research I am not 100% sure about the termonology, cause "Upstream" remote is sometimes 
+used to define the remote repository used to track changes of a local branch as the one set with: 
+
+ git push --set-upstream origin <branch_name>
+ 
+ 
  
