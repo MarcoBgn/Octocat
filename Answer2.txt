@@ -10,5 +10,12 @@ used to define the remote repository used to track changes of a local branch as 
 
  git push --set-upstream origin <branch_name>
  
+ EDIT: After some more research, I have found another use for the term as in "set an Upstream repository in order to 
+       Sync a fork with the original repository": 
+       
+       git add remote upstream Https://github.com/path/to/repository
+                 and 
+       git fetch upstream
+       
  
  
